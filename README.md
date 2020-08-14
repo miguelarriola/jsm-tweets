@@ -7,7 +7,7 @@ Creada tomando el curso [JavaScript Moderno Guía Definitiva Construye +15 Proye
 
 ## Comenzando 🚀
 
-Ver el proyecto en [jsm-tweets](https://miguelarriola.github.io/jsm-gasolineras/)
+Ver el proyecto en [jsm-tweets](https://miguelarriola.github.io/jsm-tweets/)
 
 ## Construido con 🛠️
 
